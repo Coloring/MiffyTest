@@ -1,0 +1,16 @@
+PODS:
+  - MiffyTest (0.1.0)
+
+DEPENDENCIES:
+  - MiffyTest (from `../`)
+
+EXTERNAL SOURCES:
+  MiffyTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MiffyTest: 46c9c5f8df7692ad1221bbf709b512365728b498
+
+PODFILE CHECKSUM: 18599072135a8ee59240f5d2f1bd7312214a2dc5
+
+COCOAPODS: 1.10.0

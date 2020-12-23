@@ -1,0 +1,22 @@
+{
+  "name": "MiffyTest",
+  "version": "0.1.0",
+  "summary": "A short description of MiffyTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/751590012@qq.com/MiffyTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "751590012@qq.com": "zmh@softin-tech.com"
+  },
+  "source": {
+    "git": "https://github.com/751590012@qq.com/MiffyTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MiffyTest/Classes/**/*"
+}

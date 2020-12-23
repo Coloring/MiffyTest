@@ -1,0 +1,6 @@
+framework module MiffyTest {
+  umbrella header "MiffyTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
