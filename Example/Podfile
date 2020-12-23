@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MiffyTest_Tests' do
+  pod 'MiffyTest', :path => '../'
+  
+  
+end
