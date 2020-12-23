@@ -11,26 +11,6 @@
 		7999789C7159243725E77D963FA25A80 /* Pods-MiffyTest_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B172283EC5885A56C9F2B18E1BB36AB8 /* Pods-MiffyTest_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9223ADA990965EA09F25440863B4C003 /* MiffyTest-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 839B7E2919578DD692D9D8456D71CC8D /* MiffyTest-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		941C9D8E232459D5AEEBE8DD7FC4F5A5 /* MiffyTest-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A43F806490D253BA2765B442E5F09CC /* MiffyTest-dummy.m */; };
-		98ED70C6259339C10091E2A5 /* CLUPnPAVPositionInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 98ED70B1259339C10091E2A5 /* CLUPnPAVPositionInfo.m */; };
-		98ED70C7259339C10091E2A5 /* CLUPnPRenderer.h in Headers */ = {isa = PBXBuildFile; fileRef = 98ED70B2259339C10091E2A5 /* CLUPnPRenderer.h */; };
-		98ED70C8259339C10091E2A5 /* CLUPnPAction.m in Sources */ = {isa = PBXBuildFile; fileRef = 98ED70B3259339C10091E2A5 /* CLUPnPAction.m */; };
-		98ED70C9259339C10091E2A5 /* CLUPnPServer.h in Headers */ = {isa = PBXBuildFile; fileRef = 98ED70B4259339C10091E2A5 /* CLUPnPServer.h */; };
-		98ED70CA259339C10091E2A5 /* SetUrl.xml in Resources */ = {isa = PBXBuildFile; fileRef = 98ED70B5259339C10091E2A5 /* SetUrl.xml */; };
-		98ED70CB259339C10091E2A5 /* StopAction.h in Headers */ = {isa = PBXBuildFile; fileRef = 98ED70B6259339C10091E2A5 /* StopAction.h */; };
-		98ED70CC259339C10091E2A5 /* GDataXMLNode.h in Headers */ = {isa = PBXBuildFile; fileRef = 98ED70B8259339C10091E2A5 /* GDataXMLNode.h */; };
-		98ED70CD259339C10091E2A5 /* GDataXMLNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 98ED70B9259339C10091E2A5 /* GDataXMLNode.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
-		98ED70CE259339C10091E2A5 /* CLUPnPDevice.m in Sources */ = {isa = PBXBuildFile; fileRef = 98ED70BA259339C10091E2A5 /* CLUPnPDevice.m */; };
-		98ED70CF259339C10091E2A5 /* CLUPnPResponseDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 98ED70BB259339C10091E2A5 /* CLUPnPResponseDelegate.h */; };
-		98ED70D0259339C10091E2A5 /* MRDLNA.m in Sources */ = {isa = PBXBuildFile; fileRef = 98ED70BC259339C10091E2A5 /* MRDLNA.m */; };
-		98ED70D1259339C10091E2A5 /* CLUPnPServer.m in Sources */ = {isa = PBXBuildFile; fileRef = 98ED70BD259339C10091E2A5 /* CLUPnPServer.m */; };
-		98ED70D2259339C10091E2A5 /* CLUPnPAction.h in Headers */ = {isa = PBXBuildFile; fileRef = 98ED70BE259339C10091E2A5 /* CLUPnPAction.h */; };
-		98ED70D3259339C10091E2A5 /* CLUPnPRenderer.m in Sources */ = {isa = PBXBuildFile; fileRef = 98ED70BF259339C10091E2A5 /* CLUPnPRenderer.m */; };
-		98ED70D4259339C10091E2A5 /* CLUPnPAVPositionInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = 98ED70C0259339C10091E2A5 /* CLUPnPAVPositionInfo.h */; };
-		98ED70D5259339C10091E2A5 /* CLUPnP.h in Headers */ = {isa = PBXBuildFile; fileRef = 98ED70C1259339C10091E2A5 /* CLUPnP.h */; };
-		98ED70D6259339C10091E2A5 /* StopAction.m in Sources */ = {isa = PBXBuildFile; fileRef = 98ED70C2259339C10091E2A5 /* StopAction.m */; };
-		98ED70D7259339C10091E2A5 /* Device.xml in Resources */ = {isa = PBXBuildFile; fileRef = 98ED70C3259339C10091E2A5 /* Device.xml */; };
-		98ED70D8259339C10091E2A5 /* MRDLNA.h in Headers */ = {isa = PBXBuildFile; fileRef = 98ED70C4259339C10091E2A5 /* MRDLNA.h */; };
-		98ED70D9259339C20091E2A5 /* CLUPnPDevice.h in Headers */ = {isa = PBXBuildFile; fileRef = 98ED70C5259339C10091E2A5 /* CLUPnPDevice.h */; };
 		A4AC9C3DB8806B693F02772DBAB3C28F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		F30D36ACE375BE7D903616F2701E7CE4 /* Pods-MiffyTest_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DD59D08E789E923D964EC5E0B39A02E8 /* Pods-MiffyTest_Tests-dummy.m */; };
 /* End PBXBuildFile section */
@@ -62,26 +42,6 @@
 		839B7E2919578DD692D9D8456D71CC8D /* MiffyTest-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MiffyTest-umbrella.h"; sourceTree = "<group>"; };
 		86BFBE9EF2D4751101841BC342343F4A /* Pods-MiffyTest_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MiffyTest_Tests-Info.plist"; sourceTree = "<group>"; };
 		905ADCF8FB69C86B3C81F38D800C44D8 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		98ED70B1259339C10091E2A5 /* CLUPnPAVPositionInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CLUPnPAVPositionInfo.m; sourceTree = "<group>"; };
-		98ED70B2259339C10091E2A5 /* CLUPnPRenderer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CLUPnPRenderer.h; sourceTree = "<group>"; };
-		98ED70B3259339C10091E2A5 /* CLUPnPAction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CLUPnPAction.m; sourceTree = "<group>"; };
-		98ED70B4259339C10091E2A5 /* CLUPnPServer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CLUPnPServer.h; sourceTree = "<group>"; };
-		98ED70B5259339C10091E2A5 /* SetUrl.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = SetUrl.xml; sourceTree = "<group>"; };
-		98ED70B6259339C10091E2A5 /* StopAction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StopAction.h; sourceTree = "<group>"; };
-		98ED70B8259339C10091E2A5 /* GDataXMLNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GDataXMLNode.h; sourceTree = "<group>"; };
-		98ED70B9259339C10091E2A5 /* GDataXMLNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GDataXMLNode.m; sourceTree = "<group>"; };
-		98ED70BA259339C10091E2A5 /* CLUPnPDevice.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CLUPnPDevice.m; sourceTree = "<group>"; };
-		98ED70BB259339C10091E2A5 /* CLUPnPResponseDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CLUPnPResponseDelegate.h; sourceTree = "<group>"; };
-		98ED70BC259339C10091E2A5 /* MRDLNA.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MRDLNA.m; sourceTree = "<group>"; };
-		98ED70BD259339C10091E2A5 /* CLUPnPServer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CLUPnPServer.m; sourceTree = "<group>"; };
-		98ED70BE259339C10091E2A5 /* CLUPnPAction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CLUPnPAction.h; sourceTree = "<group>"; };
-		98ED70BF259339C10091E2A5 /* CLUPnPRenderer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CLUPnPRenderer.m; sourceTree = "<group>"; };
-		98ED70C0259339C10091E2A5 /* CLUPnPAVPositionInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CLUPnPAVPositionInfo.h; sourceTree = "<group>"; };
-		98ED70C1259339C10091E2A5 /* CLUPnP.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CLUPnP.h; sourceTree = "<group>"; };
-		98ED70C2259339C10091E2A5 /* StopAction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StopAction.m; sourceTree = "<group>"; };
-		98ED70C3259339C10091E2A5 /* Device.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Device.xml; sourceTree = "<group>"; };
-		98ED70C4259339C10091E2A5 /* MRDLNA.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MRDLNA.h; sourceTree = "<group>"; };
-		98ED70C5259339C10091E2A5 /* CLUPnPDevice.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CLUPnPDevice.h; sourceTree = "<group>"; };
 		99D232E74AA0DA53F30B8A16115F1239 /* MiffyTest-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MiffyTest-Info.plist"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B172283EC5885A56C9F2B18E1BB36AB8 /* Pods-MiffyTest_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MiffyTest_Tests-umbrella.h"; sourceTree = "<group>"; };
@@ -170,46 +130,9 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		98ED70B0259339C10091E2A5 /* MRDLNA */ = {
-			isa = PBXGroup;
-			children = (
-				98ED70B1259339C10091E2A5 /* CLUPnPAVPositionInfo.m */,
-				98ED70B2259339C10091E2A5 /* CLUPnPRenderer.h */,
-				98ED70B3259339C10091E2A5 /* CLUPnPAction.m */,
-				98ED70B4259339C10091E2A5 /* CLUPnPServer.h */,
-				98ED70B5259339C10091E2A5 /* SetUrl.xml */,
-				98ED70B6259339C10091E2A5 /* StopAction.h */,
-				98ED70B7259339C10091E2A5 /* MRC */,
-				98ED70BA259339C10091E2A5 /* CLUPnPDevice.m */,
-				98ED70BB259339C10091E2A5 /* CLUPnPResponseDelegate.h */,
-				98ED70BC259339C10091E2A5 /* MRDLNA.m */,
-				98ED70BD259339C10091E2A5 /* CLUPnPServer.m */,
-				98ED70BE259339C10091E2A5 /* CLUPnPAction.h */,
-				98ED70BF259339C10091E2A5 /* CLUPnPRenderer.m */,
-				98ED70C0259339C10091E2A5 /* CLUPnPAVPositionInfo.h */,
-				98ED70C1259339C10091E2A5 /* CLUPnP.h */,
-				98ED70C2259339C10091E2A5 /* StopAction.m */,
-				98ED70C3259339C10091E2A5 /* Device.xml */,
-				98ED70C4259339C10091E2A5 /* MRDLNA.h */,
-				98ED70C5259339C10091E2A5 /* CLUPnPDevice.h */,
-			);
-			name = MRDLNA;
-			path = MiffyTest/Classes/MRDLNA;
-			sourceTree = "<group>";
-		};
-		98ED70B7259339C10091E2A5 /* MRC */ = {
-			isa = PBXGroup;
-			children = (
-				98ED70B8259339C10091E2A5 /* GDataXMLNode.h */,
-				98ED70B9259339C10091E2A5 /* GDataXMLNode.m */,
-			);
-			path = MRC;
-			sourceTree = "<group>";
-		};
 		9D3F734FB230B6CC4271DCCB328001E9 /* MiffyTest */ = {
 			isa = PBXGroup;
 			children = (
-				98ED70B0259339C10091E2A5 /* MRDLNA */,
 				3A9D9D4E7D535741F68A3BC5CF5F9C4C /* Pod */,
 				07697BFBA16AAF590FC2886C27357873 /* Support Files */,
 			);
@@ -259,17 +182,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				98ED70D2259339C10091E2A5 /* CLUPnPAction.h in Headers */,
-				98ED70CF259339C10091E2A5 /* CLUPnPResponseDelegate.h in Headers */,
 				9223ADA990965EA09F25440863B4C003 /* MiffyTest-umbrella.h in Headers */,
-				98ED70C9259339C10091E2A5 /* CLUPnPServer.h in Headers */,
-				98ED70D8259339C10091E2A5 /* MRDLNA.h in Headers */,
-				98ED70CC259339C10091E2A5 /* GDataXMLNode.h in Headers */,
-				98ED70CB259339C10091E2A5 /* StopAction.h in Headers */,
-				98ED70D4259339C10091E2A5 /* CLUPnPAVPositionInfo.h in Headers */,
-				98ED70D5259339C10091E2A5 /* CLUPnP.h in Headers */,
-				98ED70C7259339C10091E2A5 /* CLUPnPRenderer.h in Headers */,
-				98ED70D9259339C20091E2A5 /* CLUPnPDevice.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -361,8 +274,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				98ED70CA259339C10091E2A5 /* SetUrl.xml in Resources */,
-				98ED70D7259339C10091E2A5 /* Device.xml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -382,14 +293,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				941C9D8E232459D5AEEBE8DD7FC4F5A5 /* MiffyTest-dummy.m in Sources */,
-				98ED70CD259339C10091E2A5 /* GDataXMLNode.m in Sources */,
-				98ED70D1259339C10091E2A5 /* CLUPnPServer.m in Sources */,
-				98ED70C6259339C10091E2A5 /* CLUPnPAVPositionInfo.m in Sources */,
-				98ED70D3259339C10091E2A5 /* CLUPnPRenderer.m in Sources */,
-				98ED70D0259339C10091E2A5 /* MRDLNA.m in Sources */,
-				98ED70D6259339C10091E2A5 /* StopAction.m in Sources */,
-				98ED70C8259339C10091E2A5 /* CLUPnPAction.m in Sources */,
-				98ED70CE259339C10091E2A5 /* CLUPnPDevice.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
