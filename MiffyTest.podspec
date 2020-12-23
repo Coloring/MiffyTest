@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
 #  s.description      = ""
 
-  s.homepage         = 'https://github.com/751590012@qq.com/MiffyTest'
+  s.homepage         = 'https://github.com/Coloring/MiffyTest'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '751590012@qq.com' => 'zmh@softin-tech.com' }
